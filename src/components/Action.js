@@ -3,7 +3,7 @@ import _ from 'lodash';
 
 import { Link, safePrefix } from '../utils';
 
-
+// 1
 export default class Action extends React.Component {
     render() {
         const {action, ...other} = this.props;
