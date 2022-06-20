@@ -1,5 +1,5 @@
 # ✨ Azimuth Nextjs Sanity Theme ✨
-
+1
 This Stackbit's "Azimuth" theme built with [Next.js](https://nextjs.org/) and powered by [Sanity](https://www.sanity.io).
 
 This theme is deprecated and will no longer be maintained by Stackbit. 
